@@ -1,7 +1,3 @@
-Here you go, Ruchita! Here's your project write-up for **Multi-Cloud Architecture** in the same format as your previous tasks:
-
----
-
 ## **INTERN: RUCHITA RANI**
 
 **Intern ID**: CT4MFTE  
