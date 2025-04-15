@@ -10,7 +10,6 @@
 
 This project focused on building a **Multi-Cloud Architecture** by distributing services across **Amazon Web Services (AWS)** and **Microsoft Azure**. The goal was to demonstrate interoperability, enhance redundancy, and prevent vendor lock-in. EC2 instances on AWS and Azure Arc-managed servers on Azure were configured to work together seamlessly in a hybrid, multi-cloud environment.
 
----
 
 ### **Task Highlights**
 
@@ -38,7 +37,6 @@ This project focused on building a **Multi-Cloud Architecture** by distributing 
    - Created comprehensive documentation outlining architecture, configurations, and cloud integration.
    - Recorded a live **demo** showcasing real-time interaction between AWS and Azure-hosted components.
 
----
 
 ### **Key Achievements**
 
@@ -62,6 +60,5 @@ This project focused on building a **Multi-Cloud Architecture** by distributing 
    - Delivered a detailed report with architecture diagrams, config steps, and a working demo.
    - Created reusable templates and documentation for future multi-cloud projects.
 
----
 
 This project provided valuable experience in designing fault-tolerant, flexible multi-cloud architectures and managing hybrid environments using AWS EC2 and Azure Arc.
